@@ -1,0 +1,38 @@
+.Nav{
+    width: 100%;
+    height: max-content;
+    display: flex;
+    flex-flow: row;
+    background-color: rgb(247, 204, 17);
+    align-self: flex-end;
+    gap: 1280px;
+     
+
+    
+}
+
+.button{
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 5px;
+    outline: none;
+    border: thin;
+    height: max-content;
+    background-color: rgb(238, 195, 3);
+    padding: auto;
+    }
+
+.headertext{
+    margin-left: 0%;
+    margin: 15px;
+    }
+
+.menu {
+    color: white;
+    background-color: rgb(32, 32, 32);
+    height: 100%;
+    width: max-content;
+    padding: 35px;
+    position: absolute;
+    float: left;
+}
